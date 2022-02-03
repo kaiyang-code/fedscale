@@ -1,11 +1,11 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
-import { GithubOutlined, TwitterOutlined } from '@ant-design/icons'
+import { GithubOutlined, FileOutlined, SlackOutlined } from '@ant-design/icons'
 
 const IndexPage = () => {
   return (
-    <div align="center" style={{ padding: 80 }}>
+    <div align="center" style={{ padding: 40 }}>
       <p
         style={{
           color: 'cornflowerblue',
@@ -13,29 +13,34 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Gatsby Ant Design Docs Boilerplate
+        FedScale
       </p>
-      <h2>A gatsby starter to create documentation websites</h2>
-      <p>
-        This is a fork of{' '}
-        <a href="https://github.com/cvluca/gatsby-starter-markdown">
-          https://github.com/cvluca/gatsby-starter-markdown
-        </a>
-      </p>
+      <h2>
+        A Scalable, Comprehensive, and Reproducible Framework for Federated
+        Learning Research
+      </h2>
       <br />
       <Button.Group size="large">
         <Button
           size="large"
-          icon={<TwitterOutlined />}
-          href="https://twitter.com/jannikbuschke"
+          icon={<FileOutlined />}
+          href="https://arxiv.org/abs/2105.11367"
           target="_blank"
         >
-          Twitter
+          Paper
+        </Button>
+        <Button
+          size="large"
+          icon={<SlackOutlined />}
+          href="https://fedscale.slack.com"
+          target="_blank"
+        >
+          Slack
         </Button>
         <Button
           size="large"
           icon={<GithubOutlined />}
-          href="https://github.com/jannikbuschke/gatsby-antd-docs"
+          href="https://github.com/SymbioticLab/FedScale"
           target="_blank"
         >
           Github
