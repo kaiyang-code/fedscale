@@ -5,7 +5,10 @@
   Introduction
 </h1>
 
-This documentation contains scripts and instructions of building FedScale,
+<h1 align="center">
+This documentation contains scripts and instructions of building FedScale,  
+</h1>
+
 a diverse set of challenging and realistic benchmark datasets to facilitate scalable, comprehensive, and reproducible federated learning (FL) research. FedScale datasets are large-scale, encompassing a diverse range of important FL tasks,
 such as image classification, object detection, language modeling, speech recognition, and reinforcement learning.
 For each dataset, we provide a unified evaluation protocol using realistic data splits and evaluation metrics.
