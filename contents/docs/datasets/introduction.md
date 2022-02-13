@@ -6,7 +6,7 @@ We provide real-world datasets for the federated learning community, and plan to
 
 CV tasks:
 
-| Dataset         | Data Type | # of Clients | # of Samples | Example Task                           |
+|   Dataset         | Data Type | # of Clients | # of Samples | Example Task                           |
 | --------------- | --------- | ------------ | ------------ | -------------------------------------- |
 | iNature         | Image     | 2,295        | 193K         | Classification                         |
 | FMNIST          | Image     | 3,400        | 640K         | Classification                         |
