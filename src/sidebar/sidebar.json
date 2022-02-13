@@ -26,26 +26,26 @@
     ]
   },
   {
-    "name": "Guide",
+    "name": "Realistic FL Datasets",
     "link": "",
     "items": [
-      { "name": "Anchor", "link": "/docs/template/guide/anchor" },
-      { "name": "Contents", "link": "/docs/template/guide/contents" },
-      { "name": "Menu Items", "link": "/docs/template/guide/menu_items" },
-      { "name": "Sidebar", "link": "/docs/template/guide/sidebar" }
+      { "name": "Introduction", "link": "/docs/datasets/introduction" },
+      { "name": "Getting Started", "link": "/docs/datasets/getting-started" },
+      { "name": "Example", "link": "/docs/datasets/example" },
+      { "name": "Repo Structure", "link": "/docs/datasets/repo-structure" }
     ]
   },
   {
-    "name": "Lorem Ipsum",
+    "name": "FedScale Automated Runtime",
     "link": "",
     "items": [
       {
-        "name": "Ipsum",
-        "link": "/docs/template/lorem-ipsum/Ipsum"
+        "name": "Introduction",
+        "link": "/docs/runtime/introduction"
       },
       {
-        "name": "Lorem",
-        "link": "/docs/template/lorem-ipsum/Lorem"
+        "name": "Getting Started",
+        "link": "/docs/runtime/getting-started"
       }
     ]
   }
