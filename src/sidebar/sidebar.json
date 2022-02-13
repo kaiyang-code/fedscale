@@ -1,13 +1,28 @@
 [
   {
-    "name": "Get Started",
+    "name": "Overview ",
     "link": "",
     "items": [
       {
         "name": "Introduction",
-        "link": "/docs/template/get-started/introduction"
+        "link": "/docs/overview/introduction"
       },
-      { "name": "Latex", "link": "/docs/template/get-started/latex" }
+      {
+        "name": "Getting Started",
+        "link": "/docs/overview/getting-started"
+      },
+      {
+        "name": "Repo Structure",
+        "link": "/docs/overview/repo-structure"
+      },
+      {
+        "name": "Contact",
+        "link": "/docs/overview/contact"
+      },
+      {
+        "name": "Notes",
+        "link": "/docs/overview/notes"
+      }
     ]
   },
   {
